@@ -1,0 +1,33 @@
+C:\Users\LENOVO\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\LENOVO\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\LENOVO\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\LENOVO\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\LENOVO\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\LENOVO\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\LENOVO\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.vb
+C:\Users\LENOVO\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\LENOVO\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\LENOVO\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\LENOVO\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\LENOVO\Documents\Visual Studio 2022\simple-calculator-main\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\LENOVO\Documents\Visual Studio 2022\simple-calculator-main\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\LENOVO\Documents\Visual Studio 2022\simple-calculator-main\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\LENOVO\Documents\Visual Studio 2022\simple-calculator-main\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\LENOVO\Documents\Visual Studio 2022\simple-calculator-main\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2022\simple-calculator-main\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\LENOVO\Documents\Visual Studio 2022\simple-calculator-main\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Resources.resources
+C:\Users\LENOVO\Documents\Visual Studio 2022\simple-calculator-main\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.GenerateResource.cache
+C:\Users\LENOVO\Documents\Visual Studio 2022\simple-calculator-main\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\Visual Studio 2022\simple-calculator-main\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\Visual Studio 2022\simple-calculator-main\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.vb
+C:\Users\LENOVO\Documents\Visual Studio 2022\simple-calculator-main\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Visual Studio 2022\simple-calculator-main\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\LENOVO\Documents\Visual Studio 2022\simple-calculator-main\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\LENOVO\Documents\Visual Studio 2022\simple-calculator-main\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2022\simple-calculator-main\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\Visual Studio 2022\simple-calculator-main\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
