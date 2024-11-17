@@ -40,6 +40,6 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ---
 
-This README provides an overview of the project, setup instructions, and contribution guidelines. It serves as documentation for a project created as part of the **NoSQL Database course** at Bandung Manufacturing Polytechnic.
+This README provides an overview of the project, setup instructions, and contribution guidelines. It serves as documentation for a project created as part of the **Database System course** at Bandung Manufacturing Polytechnic.
 
 Feel free to tailor the content further to better suit your project's specifics! 😊
